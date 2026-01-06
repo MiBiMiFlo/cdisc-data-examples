@@ -1,0 +1,51 @@
+{
+  "examples" : [ {
+    "name" : "Pilot-ADaM-JSON",
+    "url" : "https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/sdtm-adam-pilot-project/adam/json/define.xml"
+  }, {
+    "name" : "Pilot-SDTM-JSON",
+    "url" : "https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/sdtm-adam-pilot-project/sdtm/json/define.xml"
+  }, {
+    "name" : "DataExchange-ADaM-JSON",
+    "url" : "https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/adam/json/define.xml"
+  }, {
+    "name" : "DataExchange-SDTM-JSON",
+    "url" : "https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/sdtm/json/define.xml"
+  }, {
+    "name" : "DataExchange-SEND-JSON",
+    "url" : "https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/send/json/define.xml"
+  }, {
+    "name" : "DataExchange-ADaM-NDJSON",
+    "url" : "https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/adam/ndjson/define.xml"
+  }, {
+    "name" : "DataExchange-SDTM-NDJSON",
+    "url" : "https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/sdtm/ndjson/define.xml"
+  }, {
+    "name" : "DataExchange-SEND-NDJSON",
+    "url" : "https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/send/ndjson/define.xml"
+  }, {
+    "name" : "DataExchange-ADaM-DSJC",
+    "url" : "https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/adam/dsjc/define.xml"
+  }, {
+    "name" : "DataExchange-SDTM-DSJC",
+    "url" : "https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/sdtm/dsjc/define.xml"
+  }, {
+    "name" : "DataExchange-SEND-DSJC",
+    "url" : "https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/send/dsjc/define.xml"
+  }, {
+    "name" : "Pilot-ADaM-XPT",
+    "url" : "https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/sdtm-adam-pilot-project/adam/xpt/define.xml"
+  }, {
+    "name" : "Pilot-SDTM-XPT",
+    "url" : "https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/sdtm-adam-pilot-project/sdtm/xpt/define.xml"
+  }, {
+    "name" : "DataExchange-ADaM-XPT",
+    "url" : "https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/adam/xpt/define.xml"
+  }, {
+    "name" : "DataExchange-SDTM-XPT",
+    "url" : "https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/sdtm/xpt/define.xml"
+  }, {
+    "name" : "DataExchange-SEND-XPT",
+    "url" : "https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/send/xpt/define.xml"
+  } ]
+}

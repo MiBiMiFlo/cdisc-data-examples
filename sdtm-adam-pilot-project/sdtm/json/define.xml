@@ -570,7 +570,7 @@
   Mandatory="Yes"
   Role="TIMING"
   RoleCodeListOID="ROLES"/>
-  <def:leaf ID="Location.TA" xlink:href="ta.xpt">
+  <def:leaf ID="Location.TA" xlink:href="ta.json">
   <def:title>ta.json</def:title>
   </def:leaf>
 </ItemGroupDef>
@@ -619,7 +619,7 @@
   Mandatory="No"
   Role="TIMING"
   RoleCodeListOID="ROLES"/>
-  <def:leaf ID="Location.TE" xlink:href="te.xpt">
+  <def:leaf ID="Location.TE" xlink:href="te.json">
   <def:title>te.json</def:title>
   </def:leaf>
 </ItemGroupDef>
@@ -663,7 +663,7 @@
   Mandatory="No"
   Role="RULE"
   RoleCodeListOID="ROLES"/>
-  <def:leaf ID="Location.TI" xlink:href="ti.xpt">
+  <def:leaf ID="Location.TI" xlink:href="ti.json">
   <def:title>ti.json</def:title>
   </def:leaf>
 </ItemGroupDef>
@@ -707,7 +707,7 @@
   Mandatory="Yes"
   Role="RESULT QUALIFIER"
   RoleCodeListOID="ROLES"/>
-  <def:leaf ID="Location.TS" xlink:href="ts.xpt">
+  <def:leaf ID="Location.TS" xlink:href="ts.json">
   <def:title>ts.json</def:title>
   </def:leaf>
 </ItemGroupDef>
@@ -766,7 +766,7 @@
   Mandatory="No"
   Role="RULE"
   RoleCodeListOID="ROLES"/>
-  <def:leaf ID="Location.TV" xlink:href="tv.xpt">
+  <def:leaf ID="Location.TV" xlink:href="tv.json">
   <def:title>tv.json</def:title>
   </def:leaf>
 </ItemGroupDef>
@@ -905,7 +905,7 @@
   Mandatory="No"
   Role="TIMING"
   RoleCodeListOID="ROLES"/>
-  <def:leaf ID="Location.DM" xlink:href="dm.xpt">
+  <def:leaf ID="Location.DM" xlink:href="dm.json">
   <def:title>dm.json</def:title>
   </def:leaf>
 </ItemGroupDef>
@@ -964,7 +964,7 @@
   Mandatory="No"
   Role="SYNONYM QUALIFIER"
   RoleCodeListOID="ROLES"/>
-  <def:leaf ID="Location.SE" xlink:href="se.xpt">
+  <def:leaf ID="Location.SE" xlink:href="se.json">
   <def:title>se.json</def:title>
   </def:leaf>
 </ItemGroupDef>
@@ -1018,7 +1018,7 @@
   Mandatory="No"
   Role="TIMING"
   RoleCodeListOID="ROLES"/>
-  <def:leaf ID="Location.SV" xlink:href="sv.xpt">
+  <def:leaf ID="Location.SV" xlink:href="sv.json">
   <def:title>sv.json</def:title>
   </def:leaf>
 </ItemGroupDef>
@@ -1137,7 +1137,7 @@
   Mandatory="No"
   Role="TIMING"
   RoleCodeListOID="ROLES"/>
-  <def:leaf ID="Location.CM" xlink:href="cm.xpt">
+  <def:leaf ID="Location.CM" xlink:href="cm.json">
   <def:title>cm.json</def:title>
   </def:leaf>
 </ItemGroupDef>
@@ -1236,7 +1236,7 @@
   Mandatory="No"
   Role="TIMING"
   RoleCodeListOID="ROLES"/>
-  <def:leaf ID="Location.EX" xlink:href="ex.xpt">
+  <def:leaf ID="Location.EX" xlink:href="ex.json">
   <def:title>ex.json</def:title>
   </def:leaf>
 </ItemGroupDef>
@@ -1425,7 +1425,7 @@
   Mandatory="No"
   Role="TIMING"
   RoleCodeListOID="ROLES"/>
-  <def:leaf ID="Location.AE" xlink:href="ae.xpt">
+  <def:leaf ID="Location.AE" xlink:href="ae.json">
   <def:title>ae.json</def:title>
   </def:leaf>
 </ItemGroupDef>
@@ -1504,7 +1504,7 @@
   Mandatory="No"
   Role="TIMING"
   RoleCodeListOID="ROLES"/>
-  <def:leaf ID="Location.DS" xlink:href="ds.xpt">
+  <def:leaf ID="Location.DS" xlink:href="ds.json">
   <def:title>ds.json</def:title>
   </def:leaf>
 </ItemGroupDef>
@@ -1613,7 +1613,7 @@
   Mandatory="No"
   Role="TIMING"
   RoleCodeListOID="ROLES"/>
-  <def:leaf ID="Location.MH" xlink:href="mh.xpt">
+  <def:leaf ID="Location.MH" xlink:href="mh.json">
   <def:title>mh.json</def:title>
   </def:leaf>
 </ItemGroupDef>
@@ -1742,7 +1742,7 @@
   Mandatory="No"
   Role="TIMING"
   RoleCodeListOID="ROLES"/>
-  <def:leaf ID="Location.LB" xlink:href="lb.xpt">
+  <def:leaf ID="Location.LB" xlink:href="lb.json">
   <def:title>lb.json</def:title>
   </def:leaf>
 </ItemGroupDef>
@@ -1856,7 +1856,7 @@
   Mandatory="No"
   Role="TIMING"
   RoleCodeListOID="ROLES"/>
-  <def:leaf ID="Location.QS" xlink:href="qs.xpt">
+  <def:leaf ID="Location.QS" xlink:href="qs.json">
   <def:title>qs.json</def:title>
   </def:leaf>
 </ItemGroupDef>
@@ -1940,7 +1940,7 @@
   Mandatory="No"
   Role="TIMING"
   RoleCodeListOID="ROLES"/>
-  <def:leaf ID="Location.SC" xlink:href="sc.xpt">
+  <def:leaf ID="Location.SC" xlink:href="sc.json">
   <def:title>sc.json</def:title>
   </def:leaf>
 </ItemGroupDef>
@@ -2074,7 +2074,7 @@
   Mandatory="No"
   Role="TIMING"
   RoleCodeListOID="ROLES"/>
-  <def:leaf ID="Location.VS" xlink:href="vs.xpt">
+  <def:leaf ID="Location.VS" xlink:href="vs.json">
   <def:title>vs.json</def:title>
   </def:leaf>
 </ItemGroupDef>
@@ -2123,7 +2123,7 @@
   Mandatory="Yes"
   Role="TOPIC"
   RoleCodeListOID="ROLES"/>
-  <def:leaf ID="Location.RELREC" xlink:href="relrec.xpt">
+  <def:leaf ID="Location.RELREC" xlink:href="relrec.json">
   <def:title>relrec.json</def:title>
   </def:leaf>
 </ItemGroupDef>
@@ -2187,7 +2187,7 @@
   Mandatory="No"
   Role="RESULT QUALIFIER"
   RoleCodeListOID="ROLES"/>
-  <def:leaf ID="Location.SUPPAE" xlink:href="suppae.xpt">
+  <def:leaf ID="Location.SUPPAE" xlink:href="suppae.json">
   <def:title>suppae.json</def:title>
   </def:leaf>
 </ItemGroupDef>
@@ -2251,7 +2251,7 @@
   Mandatory="No"
   Role="RESULT QUALIFIER"
   RoleCodeListOID="ROLES"/>
-  <def:leaf ID="Location.SUPPDM" xlink:href="suppdm.xpt">
+  <def:leaf ID="Location.SUPPDM" xlink:href="suppdm.json">
   <def:title>suppdm.json</def:title>
   </def:leaf>
 </ItemGroupDef>
@@ -2315,7 +2315,7 @@
   Mandatory="No"
   Role="RESULT QUALIFIER"
   RoleCodeListOID="ROLES"/>
-  <def:leaf ID="Location.SUPPDS" xlink:href="suppds.xpt">
+  <def:leaf ID="Location.SUPPDS" xlink:href="suppds.json">
   <def:title>suppds.json</def:title>
   </def:leaf>
 </ItemGroupDef>
@@ -2379,7 +2379,7 @@
   Mandatory="No"
   Role="RESULT QUALIFIER"
   RoleCodeListOID="ROLES"/>
-  <def:leaf ID="Location.SUPPLB" xlink:href="supplb.xpt">
+  <def:leaf ID="Location.SUPPLB" xlink:href="supplb.json">
   <def:title>supplb.json</def:title>
   </def:leaf>
 </ItemGroupDef>
