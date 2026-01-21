@@ -3,12 +3,14 @@
 		{"name":"pilot-project/adam", 
 			"examples":[
 			{"name":"json","url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/sdtm-adam-pilot-project/adam/json/define.xml"},
+            {"name":"parquet","url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/sdtm-adam-pilot-project/adam/parquet/define.xml"},
 			{"name":"xpt", "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/sdtm-adam-pilot-project/adam/xpt/define.xml"}
 		 ]
 		},
 		{"name":"pilot-project/sdtm", 
 			"examples":[
 			{"name":"json","url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/sdtm-adam-pilot-project/sdtm/json/define.xml"},
+            {"name":"parquet","url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/sdtm-adam-pilot-project/sdtm/parquet/define.xml"},
 			{"name":"xpt", "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/sdtm-adam-pilot-project/sdtm/xpt/define.xml"}
 		 ]
 		},
