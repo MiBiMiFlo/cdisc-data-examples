@@ -29,14 +29,31 @@ You can open the following define.xml files in Cumba Data Browser:
 * JSON Data Set with kanji
     * [DataExchange-DatasetJson/ae.json](https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/i18n/json/ae.json)
 
+## External Links
+The following links refer to external resources, that can be opened directly in the data browser:
+
+* [DataExchange-DatasetJson - ADAM](https://github.com/cdisc-org/DataExchange-DatasetJson/raw/refs/heads/master/examples/adam/define.xml)
+* [DataExchange-DatasetJson - SDTM](https://github.com/cdisc-org/DataExchange-DatasetJson/raw/refs/heads/master/examples/sdtm/define.xml)
+* [DataExchange-DatasetJson - SEND](https://github.com/cdisc-org/DataExchange-DatasetJson/raw/refs/heads/master/examples/send/define.xml)
+* [sdtm-adam-pilot-project - ADAM](https://github.com/cdisc-org/sdtm-adam-pilot-project/raw/refs/heads/master/updated-pilot-submission-package/900172/m5/datasets/cdiscpilot01/analysis/adam/datasets/define.xml)
+* [sdtm-adam-pilot-project - SDTM](https://github.com/cdisc-org/sdtm-adam-pilot-project/raw/refs/heads/master/updated-pilot-submission-package/900172/m5/datasets/cdiscpilot01/tabulations/sdtm/define.xml)
+* [phuse-scripts - TDF_ADaM_v1.0](https://github.com/phuse-org/phuse-scripts/raw/refs/heads/master/data/adam/TDF_ADaM_v1.0/define.xml)
+* [phuse-scripts - TDF_SDTM_v1.0](https://github.com/phuse-org/phuse-scripts/raw/refs/heads/master/data/sdtm/TDF_SDTM_v1.0/define.xml)
+* [phuse-scripts - CBER-POC-Pilot-Study1-Vaccine](https://github.com/phuse-org/phuse-scripts/raw/refs/heads/master/data/send/CBER-POC-Pilot-Study1-Vaccine/define.xml)
+* [phuse-scripts - CBER-POC-Pilot-Study2-Vaccine](https://github.com/phuse-org/phuse-scripts/raw/refs/heads/master/data/send/CBER-POC-Pilot-Study2-Vaccine/define.xml)
+* [phuse-scripts - CBER-POC-Pilot-Study3-Gene-Therapy](https://github.com/phuse-org/phuse-scripts/raw/refs/heads/master/data/send/CBER-POC-Pilot-Study3-Gene-Therapy/define.xml)
+* [phuse-scripts - CBER-POC-Pilot-Study4-Vaccine](https://github.com/phuse-org/phuse-scripts/raw/refs/heads/master/data/send/CBER-POC-Pilot-Study4-Vaccine/define.xml)
+* [phuse-scripts - CBER-POC-Pilot-Study5](https://github.com/phuse-org/phuse-scripts/raw/refs/heads/master/data/send/CBER-POC-Pilot-Study5/define.xml)
+
 ## Related resources
 Some further resources related to DataSet-JSON
 
-### Related CDISC projects
-The following cdisc projects are relted to this repository:
+### Related projects
+The following cdisc projects are related to this repository:
 
 * [https://github.com/cdisc-org/DataExchange-DatasetJson](https://github.com/cdisc-org/DataExchange-DatasetJson)
 * [https://github.com/cdisc-org/sdtm-adam-pilot-project](https://github.com/cdisc-org/sdtm-adam-pilot-project)
+* [https://github.com/phuse-org/phuse-scripts](https://github.com/phuse-org/phuse-scripts)
 
 ### DataSet-JSON Specifications:
 The following link provides direct access to the DataSet-JSON Specifications by CDISC:

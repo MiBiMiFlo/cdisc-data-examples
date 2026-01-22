@@ -1,51 +1,67 @@
 {
     "groups": [
-		{"name":"pilot-project/adam", 
-			"examples":[
-			{"name":"json","url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/sdtm-adam-pilot-project/adam/json/define.xml"},
+        {"name":"pilot-project/adam", 
+            "examples":[
+            {"name":"json","url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/sdtm-adam-pilot-project/adam/json/define.xml"},
             {"name":"parquet","url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/sdtm-adam-pilot-project/adam/parquet/define.xml"},
-			{"name":"xpt", "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/sdtm-adam-pilot-project/adam/xpt/define.xml"}
-		 ]
-		},
-		{"name":"pilot-project/sdtm", 
-			"examples":[
-			{"name":"json","url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/sdtm-adam-pilot-project/sdtm/json/define.xml"},
+            {"name":"xpt", "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/sdtm-adam-pilot-project/adam/xpt/define.xml"}
+         ]
+        },
+        {"name":"pilot-project/sdtm", 
+            "examples":[
+            {"name":"json","url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/sdtm-adam-pilot-project/sdtm/json/define.xml"},
             {"name":"parquet","url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/sdtm-adam-pilot-project/sdtm/parquet/define.xml"},
-			{"name":"xpt", "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/sdtm-adam-pilot-project/sdtm/xpt/define.xml"}
-		 ]
-		},
-		{"name":"DataExchange-DatasetJson/adam", 
-			"examples":[
+            {"name":"xpt", "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/sdtm-adam-pilot-project/sdtm/xpt/define.xml"}
+         ]
+        },
+        {"name":"DataExchange-DatasetJson/adam", 
+            "examples":[
             {"name":"dsjc",    "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/adam/dsjc/define.xml"},
-			{"name":"json",    "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/adam/json/define.xml"},
-			{"name":"ndjson",  "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/adam/ndjson/define.xml"},
+            {"name":"json",    "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/adam/json/define.xml"},
+            {"name":"ndjson",  "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/adam/ndjson/define.xml"},
             {"name":"parquet", "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/adam/parquet/define.xml"},
-			{"name":"xpt",     "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/adam/xpt/define.xml"}
-		 ]
-		},
-		{"name":"DataExchange-DatasetJson/sdtm", 
-			"examples":[
-			{"name":"dsjc",    "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/sdtm/dsjc/define.xml"},
-			{"name":"json",    "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/sdtm/json/define.xml"},
-			{"name":"ndjson",  "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/sdtm/ndjson/define.xml"},
+            {"name":"xpt",     "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/adam/xpt/define.xml"}
+         ]
+        },
+        {"name":"DataExchange-DatasetJson/sdtm", 
+            "examples":[
+            {"name":"dsjc",    "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/sdtm/dsjc/define.xml"},
+            {"name":"json",    "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/sdtm/json/define.xml"},
+            {"name":"ndjson",  "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/sdtm/ndjson/define.xml"},
             {"name":"parquet", "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/sdtm/parquet/define.xml"},
-			{"name":"xpt",     "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/sdtm/xpt/define.xml"}
-		 ]
-		},
- 		{"name":"DataExchange-DatasetJson/send", 
- 			"examples":[
- 			{"name":"dsjc",    "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/send/dsjc/define.xml"},
- 			{"name":"json",    "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/send/json/define.xml"},
- 			{"name":"ndjson",  "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/send/ndjson/define.xml"},
+            {"name":"xpt",     "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/sdtm/xpt/define.xml"}
+         ]
+        },
+        {"name":"DataExchange-DatasetJson/send", 
+            "examples":[
+            {"name":"dsjc",    "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/send/dsjc/define.xml"},
+            {"name":"json",    "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/send/json/define.xml"},
+            {"name":"ndjson",  "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/send/ndjson/define.xml"},
             {"name":"parquet", "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/send/parquet/define.xml"},
- 			{"name":"xpt",     "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/send/xpt/define.xml"}
- 		 ]
- 		},
-		{"name":"JSON Data Set with kanji", 
-			"examples":[
-			{"name":"ae.json",  "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/i18n/json/ae.json"}
-		 ]
-		}
+            {"name":"xpt",     "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/send/xpt/define.xml"}
+         ]
+        },
+        {"name":"phuse-scripts/adam", 
+            "examples":[
+            {"name":"xpt",  "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/phuse-scripts/adam/xpt/define.xml"}
+         ]
+        },
+        {"name":"phuse-scripts/sdtm", 
+            "examples":[
+            {"name":"xpt",  "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/phuse-scripts/sdtm/xpt/define.xml"}
+         ]
+        },
+        {"name":"phuse-scripts/send", 
+            "examples":[
+            {"name":"xpt",  "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/phuse-scripts/send/xpt/define.xml"}
+         ]
+        },
+        {"name":"JSON Data Set with kanji", 
+            "examples":[
+            {"name":"ae.json",  "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/DataExchange-DatasetJson/i18n/json/ae.json"}
+         ]
+        }
+
 	]
 
 }
