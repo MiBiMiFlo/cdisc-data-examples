@@ -43,17 +43,20 @@
         },
         {"name":"phuse-scripts/adam", 
             "examples":[
-            {"name":"xpt",  "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/phuse-scripts/adam/xpt/define.xml"}
+            {"name":"xpt",     "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/phuse-scripts/adam/xpt/define.xml"},
+            {"name":"parquet", "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/phuse-scripts/adam/parquet/define.xml"}
          ]
         },
         {"name":"phuse-scripts/sdtm", 
             "examples":[
-            {"name":"xpt",  "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/phuse-scripts/sdtm/xpt/define.xml"}
+            {"name":"xpt",     "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/phuse-scripts/sdtm/xpt/define.xml"},
+            {"name":"parquet", "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/phuse-scripts/sdtm/parquet/define.xml"}
          ]
         },
-        {"name":"phuse-scripts/send", 
+        {"name":"phuse-scripts/send_1", 
             "examples":[
-            {"name":"xpt",  "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/phuse-scripts/send/xpt/define.xml"}
+            {"name":"xpt",     "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/phuse-scripts/send_1/xpt/define.xml"},
+            {"name":"parquet", "url":"https://github.com/MiBiMiFlo/cdisc-data-examples/raw/refs/heads/main/phuse-scripts/send_1/parquet/define.xml"}
          ]
         },
         {"name":"JSON Data Set with kanji", 
