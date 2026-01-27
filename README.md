@@ -60,3 +60,14 @@ The following link provides direct access to the DataSet-JSON Specifications by 
 * [Dataset-JSON v1.1](https://github.com/cdisc-org/DataExchange-DatasetJson/blob/master/doc/dataset-json1-1.md)
 * [NDJSON](https://github.com/cdisc-org/DataExchange-DatasetJson/blob/master/doc/dataset-json-ndjson1-1.md)
 * [Compressed Dataset-JSON v1.1](https://github.com/cdisc-org/DataExchange-DatasetJson/blob/master/doc/compressed-dataset-json1-1.md)
+
+
+## run core validator
+
+```
+set define_path=%data_path%\define.xml
+set report_path=%data_path%\..\validation-report-core
+set std=sdtmig
+set std_vers= 3-4
+.\core.exe validate -s %std% -v %std_vers% -d "%data_path%" -of JSON -dxp "%define_path%" -o "%report_path%"
+```
