@@ -25,9 +25,18 @@
     <def:AnnotatedCRF>
       <def:DocumentRef leafID="blankcrf"/>
     </def:AnnotatedCRF>
+
+    <def:SupplementalDoc>
+      <def:DocumentRef leafID="validationreport-p21-xlsx"/>
+    </def:SupplementalDoc>
+
     <def:leaf ID="blankcrf" xlink:href="blankcrf.pdf">
       <def:title>Annotated Case Report Form</def:title>
     </def:leaf>
+    <def:leaf ID="validationreport-p21-xlsx" xlink:href="../pilot-project-sdtm-p21.xlsx">
+      <def:title>Validation Report - Pinnacle21 Excel</def:title>
+    </def:leaf>
+
 <def:ComputationMethod OID="COMPMETHOD.QSAD_QSSTRESN">Total scores of &quot;ALZHEIMER&apos;S DISEASE ASSESSMENT SCALE&quot; and &quot;NEUROPSYCHIATRIC INVENTORY - REVISED (NPI-X)&quot; were derived as described in the SAP. For all other Test codes: LBSTRESN= LBSTRESC converted to numeric</def:ComputationMethod>
 <def:ComputationMethod OID="COMPMETHOD.STUDY_DAY">(date portion of --DTC) minus (date portion of RFSTDTC) , add 1 if -- DTC &gt;= RFSTDC</def:ComputationMethod>
 <def:ValueListDef OID="ValueList.LB.LBCAT">

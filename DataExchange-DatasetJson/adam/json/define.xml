@@ -35,6 +35,7 @@
          <def:SupplementalDoc>
             <def:DocumentRef leafID="LF.Suppdoc"/>
 			<def:DocumentRef leafID="LF.Suppdoc2"/>
+            <def:DocumentRef leafID="validationreport-p21-xlsx"/>
          </def:SupplementalDoc>
          <def:ValueListDef OID="VL.ADADAS.AVAL">
             <ItemRef ItemOID="IT.ADADAS.AVAL.ADADAS.PARAMCD.EQ.ACITM01" OrderNumber="1"
@@ -12398,6 +12399,9 @@ Set to "Normal to High" if base=0 and aval=1.</TranslatedText>
 		 </def:leaf>
 		 <def:leaf ID="LF.Suppdoc2"	xlink:href="complex-algorithms-example.pdf">
 			<def:title>Complex Alogrithm Example</def:title>
+         </def:leaf>
+         <def:leaf ID="validationreport-p21-xlsx" xlink:href="../DataExchange-DatasetJson_adam-p21.xlsx">
+            <def:title>Validation Report - Pinnacle21 Excel</def:title>
          </def:leaf>
          <arm:AnalysisResultDisplays>
             <arm:ResultDisplay OID="RD.Table14.3.01" Name="Table14.3.01">

@@ -72,6 +72,7 @@
 
       <def:SupplementalDoc>
         <def:DocumentRef leafID="LF.csdrg"/>
+        <def:DocumentRef leafID="validationreport-p21-xlsx"/>
       </def:SupplementalDoc>
 
       <!-- ************************************************************************************************************************ -->
@@ -11779,6 +11780,9 @@ Define-XML v2.1 conformance rules were not published, nor available by any valid
         <def:title>Reviewers Guide</def:title>
       </def:leaf>
 
+      <def:leaf ID="validationreport-p21-xlsx" xlink:href="../DataExchange-DatasetJson_sdtm-p21.xlsx">
+        <def:title>Validation Report - Pinnacle21 Excel</def:title>
+      </def:leaf>
 
     <!-- ***********************************     -->
     <!-- End of Metadata Definitions Section     -->

@@ -24,6 +24,7 @@
     def:StandardVersion="2.1">
  <def:SupplementalDoc>
    <def:DocumentRef leafID="Suppdoc"/>
+   <def:DocumentRef leafID="validationreport-p21-xlsx"/>
  </def:SupplementalDoc>
  <def:leaf ID="Suppdoc"
    xlink:href="dataguide.pdf">
@@ -113,6 +114,9 @@
      <def:leaf ID="Figure_14-1"
         xlink:href="../../../../../53-clin-stud-rep/535-rep-effic-safety-stud/5351-stud-rep-contr/cdiscpilot01/cdiscpilot01.pdf#page=151">
         <def:title>Figure 14-1 </def:title>
+      </def:leaf>
+      <def:leaf ID="validationreport-p21-xlsx" xlink:href="../pilot-project-adam-p21.xlsx">
+        <def:title>Validation Report - Pinnacle21 Excel</def:title>
       </def:leaf>
 
 

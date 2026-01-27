@@ -42,6 +42,7 @@
             <def:DocumentRef leafID="LF.SAP_SEC_11.5"/>
             <def:DocumentRef leafID="LF.SAP_SEC_9.1"/>
             <def:DocumentRef leafID="LF.at14-5-02.sas"/>
+            <def:DocumentRef leafID="validationreport-p21-xlsx"/>
          </def:SupplementalDoc>
          <def:WhereClauseDef OID="WC.ADLBC.A1HI.EQ.ALB-fe6c9cc9">
             <RangeCheck SoftHard="Soft" def:ItemOID="IT.ADLBC.A1HI" Comparator="EQ">
@@ -25282,6 +25283,9 @@
          </def:leaf>
          <def:leaf ID="LF.at14-5-02.sas" xlink:href="cdiscpilot_docs/at14-5-02.sas">
             <def:title>at14-5-02.sas</def:title>
+         </def:leaf>
+         <def:leaf ID="validationreport-p21-xlsx" xlink:href="../phuse-adam-p21.xlsx">
+            <def:title>Validation Report - Pinnacle21 Excel</def:title>
          </def:leaf>
       </MetaDataVersion>
    </Study>
