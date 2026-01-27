@@ -12981,7 +12981,7 @@ If SE.SESTDTC &lt;= LBDTC &lt; SE.SEENDTC, then use that EPOCH.</TranslatedText>
          <def:leaf ID="LF.blankcrf" xlink:href="cdiscpilot_docs/annotated_crf.pdf">
             <def:title>Annotated Case Report Form</def:title>
          </def:leaf>
-         <def:leaf ID="validationreport-p21-xlsx" xlink:href="../p21_phuse_sdtm.xlsx">
+         <def:leaf ID="validationreport-p21-xlsx" xlink:href="../phuse-sdtm-p21.xlsx">
             <def:title>Validation Report - Pinnacle21 Excel</def:title>
          </def:leaf>
       </MetaDataVersion>
