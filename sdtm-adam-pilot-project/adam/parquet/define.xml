@@ -17831,19 +17831,19 @@
   </CodeListItem>
 </CodeList>
 <CodeList OID="SEX" Name="SEX" DataType="text">
-  <CodeListItem CodedValue="F " def:Rank="1" >
+  <CodeListItem CodedValue="F" def:Rank="1" >
     <Decode>
-      <TranslatedText xml:lang="en">Female  </TranslatedText>
+      <TranslatedText xml:lang="en">Female</TranslatedText>
     </Decode>
   </CodeListItem>
-  <CodeListItem CodedValue="M " def:Rank="2" >
+  <CodeListItem CodedValue="M" def:Rank="2" >
     <Decode>
-      <TranslatedText xml:lang="en">Male  </TranslatedText>
+      <TranslatedText xml:lang="en">Male</TranslatedText>
     </Decode>
   </CodeListItem>
-  <CodeListItem CodedValue="U " def:Rank="3" >
+  <CodeListItem CodedValue="U" def:Rank="3" >
     <Decode>
-      <TranslatedText xml:lang="en">Unknown  </TranslatedText>
+      <TranslatedText xml:lang="en">Unknown</TranslatedText>
     </Decode>
   </CodeListItem>
 </CodeList>
@@ -18280,9 +18280,9 @@
   </CodeListItem>
 </CodeList>
 <CodeList OID="Y_BLANK" Name="Y_BLANK" DataType="text">
-  <CodeListItem CodedValue="Y " def:Rank="1" >
+  <CodeListItem CodedValue="Y" def:Rank="1" >
     <Decode>
-      <TranslatedText xml:lang="en">Yes  </TranslatedText>
+      <TranslatedText xml:lang="en">Yes</TranslatedText>
     </Decode>
   </CodeListItem>
 </CodeList>
